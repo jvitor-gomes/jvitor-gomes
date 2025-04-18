@@ -9,9 +9,9 @@
 
 ##
 
-<div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvitor-gomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitor-gomes&layout=compact&langs_count=7&theme=dracula" alt="Most Used Languages"/>
+<div style="display: flex; align-items: center;">
+  <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitor-gomes&layout=compact&langs_count=7&theme=highcontrast" alt="Most Used Languages"/>
+  <img src="https://github-readme-streak-stats-beta-seven.vercel.app?user=jvitor-gomes&theme=highcontrast&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </div>
 
 ##
