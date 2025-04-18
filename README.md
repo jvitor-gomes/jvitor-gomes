@@ -11,6 +11,7 @@
 
 <div style="display: flex; align-items: center;">
   <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitor-gomes&layout=compact&langs_count=7&theme=highcontrast" alt="Most Used Languages"/>
+	
   <img src="https://github-readme-streak-stats-beta-seven.vercel.app?user=jvitor-gomes&theme=highcontrast&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </div>
 
