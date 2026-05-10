@@ -5,15 +5,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bgomes.joaovitor@gmail.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-Visitar-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jvitor-gomes)
 
-##
-
-<div style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvitor-gomes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitor-gomes&layout=compact&langs_count=7&theme=dracula" alt="Most Used Languages"/>
-</div>
-
-##
-
 ### Tecnologias e ferramentas que utilizo 💻
 <div style="display: inline_block"><br/>
 	<div style="display: inline_block">       
@@ -30,6 +21,7 @@
     <img align='center alt='html5' src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=sqlserver&logoColor=white"/>
     <img align='center alt='html5' src="https://img.shields.io/badge/MongoDB-CC2927?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img align='center alt='html5' src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img align='center alt='html5' src="https://img.shields.io/badge/PHP-336791?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
 
 <h3 align="justify"> Sou uma pessoa curiosa e não aceito existir algo que eu não possa aprender...
